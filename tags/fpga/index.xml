@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>fpga on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/fpga/</link>
+    <description>Recent content in fpga on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 15:56:11 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPGA, Git, DevOps, CI/CD</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/fpga-git-cicd-devops/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/fpga-git-cicd-devops/</guid>
+      <description>Modern yazılım geliştirme yöntemlerini neden FPGA projelerine uyarlamayalım?</description>
+    </item>
+    <item>
+      <title>🔴 cocotb: Python verification framework | FPGA, Gömülü Sistemler Muhabbet | Ortaya Karışık - 3</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/ortaya-karisik-3/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/ortaya-karisik-3/</guid>
+      <description>Bu bölümde ilk olarak Python dilinde sayısal tasarım doğrulama yapma imkanı sağlayan cocotb&amp;#39;ye bakıp, serbest format muhabbet edeceğiz.</description>
+    </item>
+    <item>
+      <title>Hard ve Soft Processor (İşlemci) ve IP Kavramı, FPGA ve SoC&#39;ler</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/hard-soft-islemci/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/hard-soft-islemci/</guid>
+      <description>FPGA ve SoClerle çalışan sayısal tasarımcı ve gömülü yazılımcıların karşılaştığı bir terim olan Hard Processor ve Soft Processor kavramına bakıyoruz.</description>
+    </item>
+    <item>
+      <title>Güncel (Sayısal Tasarım) Doğrulama Yöntemleri ve Araçları</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2020/guncel-dogrulama-yontemleri/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2020/guncel-dogrulama-yontemleri/</guid>
+      <description>FPGA (veya ASIC) doğrulamasındaki güncel yöntemler</description>
+    </item>
+    <item>
+      <title>Altera DE0 FPGA Geliştirme Kiti</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2011/altera-de0-fpga-gelistirme-kiti/</link>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2011/altera-de0-fpga-gelistirme-kiti/</guid>
+      <description>Yeni aldığım Altera DE0 FPGA kartının kutu açılışını yapıyorum.</description>
+    </item>
+  </channel>
+</rss>

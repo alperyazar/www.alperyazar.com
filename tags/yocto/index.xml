@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yocto on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/yocto/</link>
+    <description>Recent content in yocto on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 12:48:45 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/yocto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gömülü (Embedded) Linux nedir? Buildroot ve Yocto ne işe yarar? Buildroot Öğreniyoruz - 2</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-02/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-02/</guid>
+      <description>Bu videoda, temel olarak Gömülü Linux kavramını irdeleyip, Buildroot ve Yocto gibi araçların hangi problemimizi çözdüğünü, ne işe yaradığını kavrayacağız.</description>
+    </item>
+    <item>
+      <title>Running PetaLinux on an offline machine</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</guid>
+      <description>PetaLinux can be run an offline machine with proper configuration</description>
+    </item>
+  </channel>
+</rss>

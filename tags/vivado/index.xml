@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vivado on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/vivado/</link>
+    <description>Recent content in vivado on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 11:06:32 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/vivado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xilinx (AMD) Remote Debugging Neden Kullanışlı ve Nasıl Yapılır?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/xilinx-remote-debugging-tr/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/xilinx-remote-debugging-tr/</guid>
+      <description>Karta yapılan JTAG bağlantısına ağ üzerinden başka bilgisayardan erişip, kod atma, hata ayıklama gibi tüm işleri karta bağlıymış gibi yapabilirsiniz.</description>
+    </item>
+    <item>
+      <title>awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2019/awk-undefined-symbol-mpfrzsub/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2019/awk-undefined-symbol-mpfrzsub/</guid>
+      <description>A problem running Vivado 2016.4 on Ubuntu 16.04</description>
+    </item>
+    <item>
+      <title>Vivado 2016.4 Node Locked License Not Working on Ubuntu 16.04</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2019/vivado-20164-node-locked-license-ubuntu/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2019/vivado-20164-node-locked-license-ubuntu/</guid>
+      <description>Vivado 2016.4 is obsessed with NIC naming</description>
+    </item>
+  </channel>
+</rss>

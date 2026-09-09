@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>devops on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/devops/</link>
+    <description>Recent content in devops on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 30 May 2026 22:41:40 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPGA, Git, DevOps, CI/CD</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/fpga-git-cicd-devops/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/fpga-git-cicd-devops/</guid>
+      <description>Modern yazılım geliştirme yöntemlerini neden FPGA projelerine uyarlamayalım?</description>
+    </item>
+    <item>
+      <title>Linux Terminalinizi Kaydedin ve Paylaşın! asciinema ile Tanışın!</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/asciinema/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/asciinema/</guid>
+      <description>Linux terminalinde yaptığınız işlemleri kaydetmek ve paylaşmak mı istiyorsunuz? asciinema ile bu artık çok kolay!</description>
+    </item>
+    <item>
+      <title>Ekip Veriminizi Arttıracak, OFFLINE Çalışabilen 5 Araç - 2</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/self-hosted-5-2/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/self-hosted-5-2/</guid>
+      <description>Bu yazıda offline da çalışabilen ve çalışma veriminizi arttıracağını düşündüğüm 5 araçtan bahsediyorum, PART 2.</description>
+    </item>
+    <item>
+      <title>Ekip Veriminizi Arttıracak, OFFLINE Çalışabilen 5 Araç</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/self-hosted-5/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/self-hosted-5/</guid>
+      <description>Bu yazıda offline da çalışabilen ve çalışma veriminizi arttıracağını düşündüğüm 5 araçtan bahsediyorum.</description>
+    </item>
+    <item>
+      <title>lychee: Kırık Link Kalmasın</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/lychee/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/lychee/</guid>
+      <description>CI entegrasyonu yapabileceğiniz, Markdown ve HTML&amp;#39;de link kontrolü yapan bir araç</description>
+    </item>
+  </channel>
+</rss>

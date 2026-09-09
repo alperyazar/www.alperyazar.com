@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>petalinux on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/petalinux/</link>
+    <description>Recent content in petalinux on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 19:23:47 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/petalinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 20.04 üzerine PetaLinux 2022.2 kurulumu</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</guid>
+      <description>Bir iki nokta dışında problemsiz 👍</description>
+    </item>
+    <item>
+      <title>Running PetaLinux on an offline machine</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</guid>
+      <description>PetaLinux can be run an offline machine with proper configuration</description>
+    </item>
+    <item>
+      <title>Ubuntu 16.04.5 Üzerinde Petalinux 2018.3 Kurulumu</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</guid>
+      <description>Ubuntu 16.04&amp;#39;e Petalinux 2018.3&amp;#39;ü kurarken çıkan sorunları çözüyoruz.</description>
+    </item>
+  </channel>
+</rss>
