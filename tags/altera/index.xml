@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>altera on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/altera/</link>
+    <description>Recent content in altera on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 20:54:14 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/altera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Altera DE0 FPGA Geliştirme Kiti</title>
+      <link>https://www.alperyazar.com/posts/2011/altera-de0-fpga-gelistirme-kiti/</link>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2011/altera-de0-fpga-gelistirme-kiti/</guid>
+      <description>Yeni aldığım Altera DE0 FPGA kartının kutu açılışını yapıyorum.</description>
+    </item>
+  </channel>
+</rss>

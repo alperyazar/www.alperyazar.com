@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>selfhost on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/selfhost/</link>
+    <description>Recent content in selfhost on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 30 May 2026 22:41:40 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/selfhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Terminalinizi Kaydedin ve Paylaşın! asciinema ile Tanışın!</title>
+      <link>https://www.alperyazar.com/posts/2025/asciinema/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2025/asciinema/</guid>
+      <description>Linux terminalinde yaptığınız işlemleri kaydetmek ve paylaşmak mı istiyorsunuz? asciinema ile bu artık çok kolay!</description>
+    </item>
+    <item>
+      <title>Ekip Veriminizi Arttıracak, OFFLINE Çalışabilen 5 Araç - 2</title>
+      <link>https://www.alperyazar.com/posts/2024/self-hosted-5-2/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/self-hosted-5-2/</guid>
+      <description>Bu yazıda offline da çalışabilen ve çalışma veriminizi arttıracağını düşündüğüm 5 araçtan bahsediyorum, PART 2.</description>
+    </item>
+    <item>
+      <title>Ekip Veriminizi Arttıracak, OFFLINE Çalışabilen 5 Araç</title>
+      <link>https://www.alperyazar.com/posts/2024/self-hosted-5/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/self-hosted-5/</guid>
+      <description>Bu yazıda offline da çalışabilen ve çalışma veriminizi arttıracağını düşündüğüm 5 araçtan bahsediyorum.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wsl on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/wsl/</link>
+    <description>Recent content in wsl on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 15:31:56 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using WSL on an offline Windows machine</title>
+      <link>https://www.alperyazar.com/posts/2021/wsl-offline/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/wsl-offline/</guid>
+      <description>How to install WSL on a Windows machine not connected to the Internet</description>
+    </item>
+  </channel>
+</rss>

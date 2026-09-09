@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pdf on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/pdf/</link>
+    <description>Recent content in pdf on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 21:59:21 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create search link between SumatraPDF and TeXstudio with SyncTeX</title>
+      <link>https://www.alperyazar.com/posts/2021/sumatrapdf-texstudio-synctex-search-link/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/sumatrapdf-texstudio-synctex-search-link/</guid>
+      <description>SyncTeX enables us to create a bidirectional search relation between these two software.</description>
+    </item>
+    <item>
+      <title>Sumatra PDF</title>
+      <link>https://www.alperyazar.com/posts/2021/sumatrapdf/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/sumatrapdf/</guid>
+      <description>Sumatra PDF, Windows için tasarlanmış, hafif, hızlı bir PDF okuyucusu.</description>
+    </item>
+  </channel>
+</rss>

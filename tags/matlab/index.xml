@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>matlab on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/matlab/</link>
+    <description>Recent content in matlab on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 20:41:52 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Türkçe Ubuntu Üzerinde MATLAB Çalıştırma Problemi ve Çözümü</title>
+      <link>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</link>
+      <pubDate>Sun, 20 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</guid>
+      <description>Dili Türkçe olan Ubuntu&amp;#39;da MATLAB&amp;#39;ı çalıştırmak için ufak bir destek gerekebilir.</description>
+    </item>
+  </channel>
+</rss>

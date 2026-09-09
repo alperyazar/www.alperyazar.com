@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>en on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/en/</link>
+    <description>Recent content in en on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 06 Jun 2026 09:05:08 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Containerized an STM32 Toolchain (Almost) Nobody Remembered</title>
+      <link>https://www.alperyazar.com/posts/2026/stm32-legacy-toolchain-container/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2026/stm32-legacy-toolchain-container/</guid>
+      <description>An old STM32 toolchain sat on a legacy server, set up by hand, its history almost lost. Here is how I turned it into a Docker container, with some AI detective work, and proved it builds the exact same firmware.</description>
+    </item>
+    <item>
+      <title>Why do we have programming languages in the first place? Part 1</title>
+      <link>https://www.alperyazar.com/posts/2024/why-programming-languages-part-1/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/why-programming-languages-part-1/</guid>
+      <description>There are hundreds of computer programming languages. But why? Why do we keep inventing them?</description>
+    </item>
+    <item>
+      <title>My Zsh Setup</title>
+      <link>https://www.alperyazar.com/posts/2024/my-zsh-setup/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/my-zsh-setup/</guid>
+      <description>Zsh is modern, very customizable shell alternative</description>
+    </item>
+    <item>
+      <title>15 Features of The C Programming Language</title>
+      <link>https://www.alperyazar.com/posts/2023/properties-of-c/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/properties-of-c/</guid>
+      <description>What kind of language is C? What are the properties? Which paradigms does it belong to? How can we categorize it?</description>
+    </item>
+    <item>
+      <title>A Brief History of C Programming Language</title>
+      <link>https://www.alperyazar.com/posts/2023/a-brief-history-of-c-programming-language/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/a-brief-history-of-c-programming-language/</guid>
+      <description>Since 1972</description>
+    </item>
+    <item>
+      <title>Do not let the structure padding or __attribute__((__packed__)) ruin your day</title>
+      <link>https://www.alperyazar.com/posts/2023/c-struct-padding-packed/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-struct-padding-packed/</guid>
+      <description>a True 🇨 story</description>
+    </item>
+    <item>
+      <title>Yoda Notation</title>
+      <link>https://www.alperyazar.com/posts/2023/yoda-notation/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/yoda-notation/</guid>
+      <description>May the Force be with you</description>
+    </item>
+    <item>
+      <title>C is an imperative language</title>
+      <link>https://www.alperyazar.com/posts/2023/c-is-imperative/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-is-imperative/</guid>
+      <description>Programming in C is similar to giving &amp;#34;orders&amp;#34; to a computer</description>
+    </item>
+    <item>
+      <title>C is a procedural language</title>
+      <link>https://www.alperyazar.com/posts/2023/c-is-procedural/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-is-procedural/</guid>
+      <description>C has a member of procedural programming languages. &amp;#34;Divide and conquer&amp;#34; is the heart of this paradigm.</description>
+    </item>
+    <item>
+      <title>3 Goals of Tcl</title>
+      <link>https://www.alperyazar.com/posts/2022/3-goals-of-tcl/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/3-goals-of-tcl/</guid>
+      <description>simple, yet effective</description>
+    </item>
+    <item>
+      <title>What is Tcl?</title>
+      <link>https://www.alperyazar.com/posts/2022/what-is-tcl/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/what-is-tcl/</guid>
+      <description>Tool Command Language, since 1988</description>
+    </item>
+    <item>
+      <title>Recommend Visual Studio Code extensions along with your code</title>
+      <link>https://www.alperyazar.com/posts/2022/vscode-extension-recommendation/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/vscode-extension-recommendation/</guid>
+      <description>VS Code allows us to recommend extensions to developers along with code.</description>
+    </item>
+    <item>
+      <title>Running PetaLinux on an offline machine</title>
+      <link>https://www.alperyazar.com/posts/2022/petalinux-offline/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/petalinux-offline/</guid>
+      <description>PetaLinux can be run an offline machine with proper configuration</description>
+    </item>
+    <item>
+      <title>Create search link between SumatraPDF and TeXstudio with SyncTeX</title>
+      <link>https://www.alperyazar.com/posts/2021/sumatrapdf-texstudio-synctex-search-link/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/sumatrapdf-texstudio-synctex-search-link/</guid>
+      <description>SyncTeX enables us to create a bidirectional search relation between these two software.</description>
+    </item>
+    <item>
+      <title>Using WSL on an offline Windows machine</title>
+      <link>https://www.alperyazar.com/posts/2021/wsl-offline/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/wsl-offline/</guid>
+      <description>How to install WSL on a Windows machine not connected to the Internet</description>
+    </item>
+    <item>
+      <title>Using VS Code with self signed SSL certificates behind proxy</title>
+      <link>https://www.alperyazar.com/posts/2020/using-vscode-with-self-signed-certificates-behind-proxy/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/using-vscode-with-self-signed-certificates-behind-proxy/</guid>
+      <description>How to work with VS Code behind proxy with self signed SSL certificates</description>
+    </item>
+    <item>
+      <title>Use pip and pipenv with self signed SSL certificates</title>
+      <link>https://www.alperyazar.com/posts/2020/using-pip-and-pipenv-with-self-signed-certificates/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/using-pip-and-pipenv-with-self-signed-certificates/</guid>
+      <description>Use pip and pipenv with self signed SSL certificates</description>
+    </item>
+    <item>
+      <title>Microsoft Word: &#39;You can&#39;t make this change because this selection is locked.&#39;</title>
+      <link>https://www.alperyazar.com/posts/2020/microsoft-word-selection-is-locked/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/microsoft-word-selection-is-locked/</guid>
+      <description>Try this solution if you get that error.</description>
+    </item>
+    <item>
+      <title>awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub</title>
+      <link>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</guid>
+      <description>A problem running Vivado 2016.4 on Ubuntu 16.04</description>
+    </item>
+    <item>
+      <title>Vivado 2016.4 Node Locked License Not Working on Ubuntu 16.04</title>
+      <link>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</guid>
+      <description>Vivado 2016.4 is obsessed with NIC naming</description>
+    </item>
+    <item>
+      <title>Camcorder DVD Video Recovery on Ubuntu with photorec</title>
+      <link>https://www.alperyazar.com/posts/2017/photorec/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2017/photorec/</guid>
+      <description>Recover damaged camcorder DVD with photorec on Ubuntu</description>
+    </item>
+    <item>
+      <title>Install DokuWiki without Mail Support</title>
+      <link>https://www.alperyazar.com/posts/2014/dokuwiki-without-mail-support/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2014/dokuwiki-without-mail-support/</guid>
+      <description>Installing DokuWiki on a mail disabled server requires a little modification</description>
+    </item>
+    <item>
+      <title>ZofzPCB</title>
+      <link>https://www.alperyazar.com/posts/2014/zofzpcb/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2014/zofzpcb/</guid>
+      <description>Free, 3D Gerber constructor and viewer for PCBs</description>
+    </item>
+  </channel>
+</rss>

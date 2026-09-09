@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ubuntu on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 19:23:47 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 20.04 üzerine PetaLinux 2022.2 kurulumu</title>
+      <link>https://www.alperyazar.com/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</guid>
+      <description>Bir iki nokta dışında problemsiz 👍</description>
+    </item>
+    <item>
+      <title>Ubuntu 16.04.5 Üzerinde Petalinux 2018.3 Kurulumu</title>
+      <link>https://www.alperyazar.com/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</guid>
+      <description>Ubuntu 16.04&amp;#39;e Petalinux 2018.3&amp;#39;ü kurarken çıkan sorunları çözüyoruz.</description>
+    </item>
+    <item>
+      <title>awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub</title>
+      <link>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</guid>
+      <description>A problem running Vivado 2016.4 on Ubuntu 16.04</description>
+    </item>
+    <item>
+      <title>Vivado 2016.4 Node Locked License Not Working on Ubuntu 16.04</title>
+      <link>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</guid>
+      <description>Vivado 2016.4 is obsessed with NIC naming</description>
+    </item>
+    <item>
+      <title>Camcorder DVD Video Recovery on Ubuntu with photorec</title>
+      <link>https://www.alperyazar.com/posts/2017/photorec/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2017/photorec/</guid>
+      <description>Recover damaged camcorder DVD with photorec on Ubuntu</description>
+    </item>
+    <item>
+      <title>Ubuntu Üzerinde Disket Sürücüsünü Kullanma</title>
+      <link>https://www.alperyazar.com/posts/2012/ubuntu-disket-surucusu-kullanma/</link>
+      <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2012/ubuntu-disket-surucusu-kullanma/</guid>
+      <description>udisks komutu ile bağlanmayan disketlere çözüm</description>
+    </item>
+    <item>
+      <title>Türkçe Ubuntu Üzerinde MATLAB Çalıştırma Problemi ve Çözümü</title>
+      <link>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</link>
+      <pubDate>Sun, 20 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</guid>
+      <description>Dili Türkçe olan Ubuntu&amp;#39;da MATLAB&amp;#39;ı çalıştırmak için ufak bir destek gerekebilir.</description>
+    </item>
+  </channel>
+</rss>
