@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>c on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/c/</link>
+    <description>Recent content in c on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 15:44:53 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gömülü yani Embedded C var mıdır?</title>
+      <link>https://www.alperyazar.com/posts/2025/gomulu-embedded-c/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2025/gomulu-embedded-c/</guid>
+      <description>Birçok gömülü yani embedded sistemde C dili ile çalışmalar yapıyoruz. Peki bu durumda Gömülü yani Embedded C var diyebilir miyiz?</description>
+    </item>
+    <item>
+      <title>GÖMÜLÜ YAZILIMIN olmazsa olmazı CROSS COMPILATION nedir?</title>
+      <link>https://www.alperyazar.com/posts/2024/capraz-derleme/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/capraz-derleme/</guid>
+      <description>Cross Compilation yani Çapraz Derleme özellikle gömülü yazılım alanının olmazsa olmaz kavramlarından biri, gelin öğrenelim!</description>
+    </item>
+    <item>
+      <title>220 saatlik C kursu alınır mı?</title>
+      <link>https://www.alperyazar.com/posts/2023/220-saatlik-c-kursu-alinir-mi/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/220-saatlik-c-kursu-alinir-mi/</guid>
+      <description>Necati Ergin Bey&amp;#39;den aldığım kurs sonrasında kendisinin ve Kaan Aslan Bey&amp;#39;in (CSD) verdiği uzun C kursu hakkında görüşlerimi aktarıyorum.</description>
+    </item>
+    <item>
+      <title>15 Features of The C Programming Language</title>
+      <link>https://www.alperyazar.com/posts/2023/properties-of-c/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/properties-of-c/</guid>
+      <description>What kind of language is C? What are the properties? Which paradigms does it belong to? How can we categorize it?</description>
+    </item>
+    <item>
+      <title>A Brief History of C Programming Language</title>
+      <link>https://www.alperyazar.com/posts/2023/a-brief-history-of-c-programming-language/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/a-brief-history-of-c-programming-language/</guid>
+      <description>Since 1972</description>
+    </item>
+    <item>
+      <title>Do not let the structure padding or __attribute__((__packed__)) ruin your day</title>
+      <link>https://www.alperyazar.com/posts/2023/c-struct-padding-packed/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-struct-padding-packed/</guid>
+      <description>a True 🇨 story</description>
+    </item>
+    <item>
+      <title>Yoda Notation</title>
+      <link>https://www.alperyazar.com/posts/2023/yoda-notation/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/yoda-notation/</guid>
+      <description>May the Force be with you</description>
+    </item>
+    <item>
+      <title>Programlama dillerinde Statik ve Dinamik Tür kavramı</title>
+      <link>https://www.alperyazar.com/posts/2023/statik-dinamik-tur-kavrami/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/statik-dinamik-tur-kavrami/</guid>
+      <description>C ve Python örnekleri ile statik ve dinamik tür kavramına bakıyoruz</description>
+    </item>
+    <item>
+      <title>C is an imperative language</title>
+      <link>https://www.alperyazar.com/posts/2023/c-is-imperative/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-is-imperative/</guid>
+      <description>Programming in C is similar to giving &amp;#34;orders&amp;#34; to a computer</description>
+    </item>
+    <item>
+      <title>C is a procedural language</title>
+      <link>https://www.alperyazar.com/posts/2023/c-is-procedural/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/c-is-procedural/</guid>
+      <description>C has a member of procedural programming languages. &amp;#34;Divide and conquer&amp;#34; is the heart of this paradigm.</description>
+    </item>
+    <item>
+      <title>C programlamada gördüğüm en sık yapılan hata</title>
+      <link>https://www.alperyazar.com/posts/2022/c-programlamada-en-cok-yapilan-hata/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/c-programlamada-en-cok-yapilan-hata/</guid>
+      <description>Gözden kaçabilen, masum görünen fakat canınızı sıkabilecek bir C hatası</description>
+    </item>
+  </channel>
+</rss>

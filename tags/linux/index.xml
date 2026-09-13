@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/linux/</link>
+    <description>Recent content in linux on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 30 May 2026 22:41:40 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 Yaşındaki Laptop&#39;uma Hafta Sonu Linux Bakımı</title>
+      <link>https://www.alperyazar.com/posts/2024/eski-laptop-linux-bakim/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/eski-laptop-linux-bakim/</guid>
+      <description>Debian, Linux Mint, XFCE, Ventoy, ZSH...</description>
+    </item>
+    <item>
+      <title>Buildroot ile ilk derleme! Buildroot Öğreniyoruz - 4</title>
+      <link>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-04/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-04/</guid>
+      <description>Buildroot ile ilk derlememizi yapıyoruz. Elbette tahmin ettiğim gibi ilk seferde olmuyor, uğraşıyoruz..</description>
+    </item>
+    <item>
+      <title>Buildroot ile Tanışıyoruz Buildroot Öğreniyoruz - 3</title>
+      <link>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-03/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-03/</guid>
+      <description>Bu bölümde Buildroot ile artık tanışıyoruz. Nedir? Kimler kullanır? Nasıl kullanılır? Nereden indirilir? ...</description>
+    </item>
+    <item>
+      <title>My Zsh Setup</title>
+      <link>https://www.alperyazar.com/posts/2024/my-zsh-setup/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/my-zsh-setup/</guid>
+      <description>Zsh is modern, very customizable shell alternative</description>
+    </item>
+    <item>
+      <title>Gömülü (Embedded) Linux nedir? Buildroot ve Yocto ne işe yarar? Buildroot Öğreniyoruz - 2</title>
+      <link>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-02/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-02/</guid>
+      <description>Bu videoda, temel olarak Gömülü Linux kavramını irdeleyip, Buildroot ve Yocto gibi araçların hangi problemimizi çözdüğünü, ne işe yaradığını kavrayacağız.</description>
+    </item>
+    <item>
+      <title>Buildroot İle Gömülü Linux: Başlıyoruz! Buildroot Öğreniyoruz - 1</title>
+      <link>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-01/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2024/buildroot-ogreniyoruz-01/</guid>
+      <description>&amp;#39;Buildroot Öğreniyoruz&amp;#39; serisine hoş geldiniz. Bu seride, Buildroot kullanarak nasıl gömülü Linux sistemleri oluşturabileceğimizi adım adım, hep beraber öğreneceğiz.</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 üzerine PetaLinux 2022.2 kurulumu</title>
+      <link>https://www.alperyazar.com/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</guid>
+      <description>Bir iki nokta dışında problemsiz 👍</description>
+    </item>
+    <item>
+      <title>Raspberry Pi SD kart taşıma ve büyütme</title>
+      <link>https://www.alperyazar.com/posts/2021/rpi-sd-kart-buyutme/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/rpi-sd-kart-buyutme/</guid>
+      <description>Kullandığınız SD kartı aynı boy ya da daha büyük bir karta nasıl taşıyabileceğinizi anlatıyorum.</description>
+    </item>
+    <item>
+      <title>Using WSL on an offline Windows machine</title>
+      <link>https://www.alperyazar.com/posts/2021/wsl-offline/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/wsl-offline/</guid>
+      <description>How to install WSL on a Windows machine not connected to the Internet</description>
+    </item>
+    <item>
+      <title>Use pip and pipenv with self signed SSL certificates</title>
+      <link>https://www.alperyazar.com/posts/2020/using-pip-and-pipenv-with-self-signed-certificates/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/using-pip-and-pipenv-with-self-signed-certificates/</guid>
+      <description>Use pip and pipenv with self signed SSL certificates</description>
+    </item>
+    <item>
+      <title>Ubuntu 16.04.5 Üzerinde Petalinux 2018.3 Kurulumu</title>
+      <link>https://www.alperyazar.com/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/ubuntu-1604-petalinux-20183-kurulumu/</guid>
+      <description>Ubuntu 16.04&amp;#39;e Petalinux 2018.3&amp;#39;ü kurarken çıkan sorunları çözüyoruz.</description>
+    </item>
+    <item>
+      <title>awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub</title>
+      <link>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/awk-undefined-symbol-mpfrzsub/</guid>
+      <description>A problem running Vivado 2016.4 on Ubuntu 16.04</description>
+    </item>
+    <item>
+      <title>Vivado 2016.4 Node Locked License Not Working on Ubuntu 16.04</title>
+      <link>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/vivado-20164-node-locked-license-ubuntu/</guid>
+      <description>Vivado 2016.4 is obsessed with NIC naming</description>
+    </item>
+    <item>
+      <title>Windows 10 1803 → 1903 Yükseltmesi Sırasında GRUB&#39;un Bozulması</title>
+      <link>https://www.alperyazar.com/posts/2019/windows-10-grub-bozulmasi/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/windows-10-grub-bozulmasi/</guid>
+      <description>Dual boot çalışan bilgisayarın Windows güncellemesi ile bozulan disk düzenini tamir ediyoruz.</description>
+    </item>
+    <item>
+      <title>Camcorder DVD Video Recovery on Ubuntu with photorec</title>
+      <link>https://www.alperyazar.com/posts/2017/photorec/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2017/photorec/</guid>
+      <description>Recover damaged camcorder DVD with photorec on Ubuntu</description>
+    </item>
+    <item>
+      <title>Ubuntu Üzerinde Disket Sürücüsünü Kullanma</title>
+      <link>https://www.alperyazar.com/posts/2012/ubuntu-disket-surucusu-kullanma/</link>
+      <pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2012/ubuntu-disket-surucusu-kullanma/</guid>
+      <description>udisks komutu ile bağlanmayan disketlere çözüm</description>
+    </item>
+    <item>
+      <title>Türkçe Ubuntu Üzerinde MATLAB Çalıştırma Problemi ve Çözümü</title>
+      <link>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</link>
+      <pubDate>Sun, 20 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2011/turkce-ubuntu-uzerinde-matlab-calistirma/</guid>
+      <description>Dili Türkçe olan Ubuntu&amp;#39;da MATLAB&amp;#39;ı çalıştırmak için ufak bir destek gerekebilir.</description>
+    </item>
+  </channel>
+</rss>
