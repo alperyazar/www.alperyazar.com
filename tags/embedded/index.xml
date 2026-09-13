@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>embedded on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/embedded/</link>
+    <description>Recent content in embedded on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 06 Jun 2026 09:05:08 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Containerized an STM32 Toolchain (Almost) Nobody Remembered</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2026/stm32-legacy-toolchain-container/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2026/stm32-legacy-toolchain-container/</guid>
+      <description>An old STM32 toolchain sat on a legacy server, set up by hand, its history almost lost. Here is how I turned it into a Docker container, with some AI detective work, and proved it builds the exact same firmware.</description>
+    </item>
+    <item>
+      <title>MODBUS Notlarım</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/modbus-notlarim/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/modbus-notlarim/</guid>
+      <description>MODBUS (RTU) haberleşme protokolü üzerine aldığım notlar</description>
+    </item>
+    <item>
+      <title>Gömülü yani Embedded C var mıdır?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/gomulu-embedded-c/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/gomulu-embedded-c/</guid>
+      <description>Birçok gömülü yani embedded sistemde C dili ile çalışmalar yapıyoruz. Peki bu durumda Gömülü yani Embedded C var diyebilir miyiz?</description>
+    </item>
+    <item>
+      <title>Hard ve Soft Processor (İşlemci) ve IP Kavramı, FPGA ve SoC&#39;ler</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/hard-soft-islemci/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/hard-soft-islemci/</guid>
+      <description>FPGA ve SoClerle çalışan sayısal tasarımcı ve gömülü yazılımcıların karşılaştığı bir terim olan Hard Processor ve Soft Processor kavramına bakıyoruz.</description>
+    </item>
+    <item>
+      <title>GÖMÜLÜ YAZILIMIN olmazsa olmazı CROSS COMPILATION nedir?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/capraz-derleme/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/capraz-derleme/</guid>
+      <description>Cross Compilation yani Çapraz Derleme özellikle gömülü yazılım alanının olmazsa olmaz kavramlarından biri, gelin öğrenelim!</description>
+    </item>
+    <item>
+      <title>Buildroot ile ilk derleme! Buildroot Öğreniyoruz - 4</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-04/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-04/</guid>
+      <description>Buildroot ile ilk derlememizi yapıyoruz. Elbette tahmin ettiğim gibi ilk seferde olmuyor, uğraşıyoruz..</description>
+    </item>
+    <item>
+      <title>Buildroot ile Tanışıyoruz Buildroot Öğreniyoruz - 3</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-03/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-03/</guid>
+      <description>Bu bölümde Buildroot ile artık tanışıyoruz. Nedir? Kimler kullanır? Nasıl kullanılır? Nereden indirilir? ...</description>
+    </item>
+    <item>
+      <title>Gömülü (Embedded) Linux nedir? Buildroot ve Yocto ne işe yarar? Buildroot Öğreniyoruz - 2</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-02/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-02/</guid>
+      <description>Bu videoda, temel olarak Gömülü Linux kavramını irdeleyip, Buildroot ve Yocto gibi araçların hangi problemimizi çözdüğünü, ne işe yaradığını kavrayacağız.</description>
+    </item>
+    <item>
+      <title>Buildroot İle Gömülü Linux: Başlıyoruz! Buildroot Öğreniyoruz - 1</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-01/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/buildroot-ogreniyoruz-01/</guid>
+      <description>&amp;#39;Buildroot Öğreniyoruz&amp;#39; serisine hoş geldiniz. Bu seride, Buildroot kullanarak nasıl gömülü Linux sistemleri oluşturabileceğimizi adım adım, hep beraber öğreneceğiz.</description>
+    </item>
+    <item>
+      <title>Do not let the structure padding or __attribute__((__packed__)) ruin your day</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</guid>
+      <description>a True 🇨 story</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 üzerine PetaLinux 2022.2 kurulumu</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/ubuntu-2004-petalinux-20222-kurulumu/</guid>
+      <description>Bir iki nokta dışında problemsiz 👍</description>
+    </item>
+    <item>
+      <title>C programlamada gördüğüm en sık yapılan hata</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/c-programlamada-en-cok-yapilan-hata/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/c-programlamada-en-cok-yapilan-hata/</guid>
+      <description>Gözden kaçabilen, masum görünen fakat canınızı sıkabilecek bir C hatası</description>
+    </item>
+    <item>
+      <title>Running PetaLinux on an offline machine</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/petalinux-offline/</guid>
+      <description>PetaLinux can be run an offline machine with proper configuration</description>
+    </item>
+  </channel>
+</rss>

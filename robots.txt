@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/sitemap.xml
