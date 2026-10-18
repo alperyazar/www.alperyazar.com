@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/programming/</link>
+    <description>Recent content in programming on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 06 Jun 2026 09:05:08 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Containerized an STM32 Toolchain (Almost) Nobody Remembered</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2026/stm32-legacy-toolchain-container/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2026/stm32-legacy-toolchain-container/</guid>
+      <description>An old STM32 toolchain sat on a legacy server, set up by hand, its history almost lost. Here is how I turned it into a Docker container, with some AI detective work, and proved it builds the exact same firmware.</description>
+    </item>
+    <item>
+      <title>Why do we have programming languages in the first place? Part 1</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/why-programming-languages-part-1/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/why-programming-languages-part-1/</guid>
+      <description>There are hundreds of computer programming languages. But why? Why do we keep inventing them?</description>
+    </item>
+    <item>
+      <title>220 saatlik C kursu alınır mı?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/220-saatlik-c-kursu-alinir-mi/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/220-saatlik-c-kursu-alinir-mi/</guid>
+      <description>Necati Ergin Bey&amp;#39;den aldığım kurs sonrasında kendisinin ve Kaan Aslan Bey&amp;#39;in (CSD) verdiği uzun C kursu hakkında görüşlerimi aktarıyorum.</description>
+    </item>
+    <item>
+      <title>15 Features of The C Programming Language</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/properties-of-c/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/properties-of-c/</guid>
+      <description>What kind of language is C? What are the properties? Which paradigms does it belong to? How can we categorize it?</description>
+    </item>
+    <item>
+      <title>A Brief History of C Programming Language</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/a-brief-history-of-c-programming-language/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/a-brief-history-of-c-programming-language/</guid>
+      <description>Since 1972</description>
+    </item>
+    <item>
+      <title>TIOBE Index nedir? Güvenebilir miyiz?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/tiobe-index-nedir-guvenebilir-miyiz/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/tiobe-index-nedir-guvenebilir-miyiz/</guid>
+      <description>Programlama dillerini öğrenirken ve onları kıyaslarken bu endeks karşımıza çıkmaktadır. Peki nedir? Güvenilir midir?</description>
+    </item>
+    <item>
+      <title>Do not let the structure padding or __attribute__((__packed__)) ruin your day</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</guid>
+      <description>a True 🇨 story</description>
+    </item>
+    <item>
+      <title>Yoda Notation</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/yoda-notation/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/yoda-notation/</guid>
+      <description>May the Force be with you</description>
+    </item>
+    <item>
+      <title>Programlama dillerinde Statik ve Dinamik Tür kavramı</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/statik-dinamik-tur-kavrami/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/statik-dinamik-tur-kavrami/</guid>
+      <description>C ve Python örnekleri ile statik ve dinamik tür kavramına bakıyoruz</description>
+    </item>
+  </channel>
+</rss>
