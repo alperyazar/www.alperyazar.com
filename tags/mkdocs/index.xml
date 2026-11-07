@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mkdocs on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/mkdocs/</link>
+    <description>Recent content in mkdocs on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 10:07:37 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/mkdocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tekrar Merhaba MkDocs!</title>
+      <link>https://www.alperyazar.com/posts/2020/tekrar-merhaba-mkdocs/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/tekrar-merhaba-mkdocs/</guid>
+      <description>Dokuwiki&amp;#39;den MkDocs&amp;#39;a geçiş</description>
+    </item>
+    <item>
+      <title>Tekrar Merhaba DokuWiki!</title>
+      <link>https://www.alperyazar.com/posts/2020/tekrar-merhaba-dokuwiki/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/tekrar-merhaba-dokuwiki/</guid>
+      <description>MkDocs&amp;#39;tan Dokuwiki&amp;#39;ye geçiş</description>
+    </item>
+    <item>
+      <title>Merhaba MkDocs!</title>
+      <link>https://www.alperyazar.com/posts/2020/merhaba-mkdocs/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2020/merhaba-mkdocs/</guid>
+      <description>Dokuwiki&amp;#39;den MkDocs&amp;#39;a geçiş</description>
+    </item>
+  </channel>
+</rss>

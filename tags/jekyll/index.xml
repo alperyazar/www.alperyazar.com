@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jekyll on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/jekyll/</link>
+    <description>Recent content in jekyll on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 20:25:47 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tekrar Merhaba Jekyll!</title>
+      <link>https://www.alperyazar.com/posts/2021/tekrar-merhaba-jekyll/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/tekrar-merhaba-jekyll/</guid>
+      <description>Döndüm dolaştım yine Jekyll&amp;#39;ye geçtim.</description>
+    </item>
+    <item>
+      <title>Merhaba Sphinx!</title>
+      <link>https://www.alperyazar.com/posts/2019/merhaba-sphinx/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/merhaba-sphinx/</guid>
+      <description>Jekyll&amp;#39;den Sphinx&amp;#39;e geçtim.</description>
+    </item>
+  </channel>
+</rss>

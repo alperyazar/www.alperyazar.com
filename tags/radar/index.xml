@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>radar on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/radar/</link>
+    <description>Recent content in radar on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 18:41:18 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/radar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RADAR 22-6. FPGA okulda mı öğreniliyor?</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-6/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-6/</guid>
+      <description>10 Haziran - 17 Haziran arasında RADARıma takılanlar.</description>
+    </item>
+    <item>
+      <title>RADAR 22-5</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-5/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-5/</guid>
+      <description>28 Mayıs - 9 Haziran arasında RADARıma takılanlar.</description>
+    </item>
+    <item>
+      <title>RADAR 22-4</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-4/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-4/</guid>
+      <description>30 Nisan - 27 Mayıs arasında RADARıma takılanlar.</description>
+    </item>
+    <item>
+      <title>RADAR 22-3</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-3/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-3/</guid>
+      <description>23 Nisan - 29 Nisan arasında RADARıma takılanlar.</description>
+    </item>
+    <item>
+      <title>RADAR 22-2</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-2/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-2/</guid>
+      <description>Radarıma takılanlar [2022-04-16, 2022-04-22]</description>
+    </item>
+    <item>
+      <title>RADAR 22-1</title>
+      <link>https://www.alperyazar.com/posts/2022/radar-22-1/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/radar-22-1/</guid>
+      <description>Radarıma takılanlar (-∞, 2022-04-15]</description>
+    </item>
+  </channel>
+</rss>

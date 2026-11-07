@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>windows on Alper Yazar</title>
+    <link>https://www.alperyazar.com/tags/windows/</link>
+    <description>Recent content in windows on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 15:37:48 +0300</lastBuildDate>
+    <atom:link href="https://www.alperyazar.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinDirStat</title>
+      <link>https://www.alperyazar.com/posts/2022/windirstate/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2022/windirstate/</guid>
+      <description>&amp;#39;Diskimde en çok hangi klasörler yer kaplıyor?&amp;#39; sorusuna cevap bulun!</description>
+    </item>
+    <item>
+      <title>Using WSL on an offline Windows machine</title>
+      <link>https://www.alperyazar.com/posts/2021/wsl-offline/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2021/wsl-offline/</guid>
+      <description>How to install WSL on a Windows machine not connected to the Internet</description>
+    </item>
+    <item>
+      <title>Windows 10 1803 → 1903 Yükseltmesi Sırasında GRUB&#39;un Bozulması</title>
+      <link>https://www.alperyazar.com/posts/2019/windows-10-grub-bozulmasi/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2019/windows-10-grub-bozulmasi/</guid>
+      <description>Dual boot çalışan bilgisayarın Windows güncellemesi ile bozulan disk düzenini tamir ediyoruz.</description>
+    </item>
+    <item>
+      <title>Windows&#39;un Sunduğu &#39;Hazırda Beklet&#39; ve &#39;Uyku&#39; Seçeneklerini Sürekli Ters Algılamam</title>
+      <link>https://www.alperyazar.com/posts/2014/windows-hazirda-beklet-uyku/</link>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2014/windows-hazirda-beklet-uyku/</guid>
+      <description>Uyku dediğin derin olur!</description>
+    </item>
+    <item>
+      <title>Ninite</title>
+      <link>https://www.alperyazar.com/posts/2011/ninite/</link>
+      <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.alperyazar.com/posts/2011/ninite/</guid>
+      <description>Bilgisayarınıza toplu program yüklemek için güzel bir araç</description>
+    </item>
+  </channel>
+</rss>
