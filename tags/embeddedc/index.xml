@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>embeddedc on Alper Yazar</title>
+    <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/embeddedc/</link>
+    <description>Recent content in embeddedc on Alper Yazar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2011 - 2026, Alper Yazar · CC BY-NC-SA 4.0 · 🔒 pub.asc · 📡 RSS · Disclaimer</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 15:44:53 +0300</lastBuildDate>
+    <atom:link href="https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/tags/embeddedc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gömülü yani Embedded C var mıdır?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/gomulu-embedded-c/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2025/gomulu-embedded-c/</guid>
+      <description>Birçok gömülü yani embedded sistemde C dili ile çalışmalar yapıyoruz. Peki bu durumda Gömülü yani Embedded C var diyebilir miyiz?</description>
+    </item>
+    <item>
+      <title>GÖMÜLÜ YAZILIMIN olmazsa olmazı CROSS COMPILATION nedir?</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/capraz-derleme/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2024/capraz-derleme/</guid>
+      <description>Cross Compilation yani Çapraz Derleme özellikle gömülü yazılım alanının olmazsa olmaz kavramlarından biri, gelin öğrenelim!</description>
+    </item>
+    <item>
+      <title>Do not let the structure padding or __attribute__((__packed__)) ruin your day</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2023/c-struct-padding-packed/</guid>
+      <description>a True 🇨 story</description>
+    </item>
+    <item>
+      <title>C programlamada gördüğüm en sık yapılan hata</title>
+      <link>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/c-programlamada-en-cok-yapilan-hata/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://57Gqi7.alperyazar.com/1W47Sz/8tlC40/posts/2022/c-programlamada-en-cok-yapilan-hata/</guid>
+      <description>Gözden kaçabilen, masum görünen fakat canınızı sıkabilecek bir C hatası</description>
+    </item>
+  </channel>
+</rss>
